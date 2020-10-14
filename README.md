@@ -1,2 +1,2 @@
 # hello-world
-first string greeting
+Enter First String Greeting
